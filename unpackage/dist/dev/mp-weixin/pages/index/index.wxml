@@ -1,0 +1,1 @@
+<view class="_div"><view class="content"><view class="text-area"><text class="title">{{title}}</text></view></view><image class="mainbg" src="../../static/img/IMG_0691.JPG"></image><view class="para _div"><view class="_p">Some time worthy to be remembered.</view><view class="day_title _p">纪念日</view><view class="days _p">{{days}}</view></view></view>
