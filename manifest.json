@@ -1,5 +1,5 @@
 {
-    "name" : "unitimmer",
+    "name" : "my-clock",
     "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
@@ -8,6 +8,7 @@
     /* 5+App特有相关 */
     "app-plus" : {
         "usingComponents" : true,
+        "nvueCompiler" : "uni-app",
         "splashscreen" : {
             "alwaysShowBeforeRender" : true,
             "waiting" : true,

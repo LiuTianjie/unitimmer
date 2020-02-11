@@ -1,6 +1,8 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/searchfood/searchfood",
+    "pages/daily/daily"
   ],
   "subPackages": [],
   "window": {
@@ -8,6 +10,32 @@
     "navigationBarTitleText": "❤️",
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#808080",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#f8f8f8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/static/icons/home.png",
+        "selectedIconPath": "/static/icons/shome.png",
+        "text": "Time"
+      },
+      {
+        "pagePath": "pages/searchfood/searchfood",
+        "iconPath": "/static/icons/pic.png",
+        "selectedIconPath": "/static/icons/spic.png",
+        "text": "Food"
+      },
+      {
+        "pagePath": "pages/daily/daily",
+        "iconPath": "/static/icons/about.png",
+        "selectedIconPath": "/static/icons/sabout.png",
+        "text": "Daily"
+      }
+    ]
   },
   "usingComponents": {},
   "sitemapLocation": "sitemap.json"

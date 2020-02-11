@@ -7,9 +7,9 @@
 		"urlCheck": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.7.0",
+	"libVersion": "2.9.2",
 	"appid": "wxc4f76ecb451e219b",
-	"projectname": "unitimmer",
+	"projectname": "my-clock",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"condition": {
