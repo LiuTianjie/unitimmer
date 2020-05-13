@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "popup-layer": "/components/popup-layer",
-    "submit": "/components/submit",
-    "list-card": "/components/listcard"
-  }
-}
